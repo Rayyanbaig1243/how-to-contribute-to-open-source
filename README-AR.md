@@ -3,21 +3,48 @@
 <strong> اقرأ هذا الدليل بلغات أخرى </strong>
 </summary>
     <ul>
-        <li><a href="./README.md"> إنجليزي </a></li>
-        <li><a href="./README-MR.md"> الماراثى </a></li>
-        <li><a href="./README-BN.md"> البنغالية </a></li>
-        <li><a href="./README-CN.md"> صينى </a></li>
-        <li><a href="./README-RU.md"> الروسية </a></li>
-        <li><a href="./README-RO.md"> روماني </a></li>
-        <li><a href="./README-IT.md"> إيطالي </a></li>
-        <li><a href="./README-ES.md"> الأسبانية </a></li>
-        <li><a href="./README-pt-BR.md"> البرتغالية (البرازيل) </a></li>
-        <li><a href="./README-DE.md"> ألماني </a></li>
-        <li><a href="./README-GR.md"> اليونانية </a></li>
-        <li><a href="./README-FR.md"> الفرنسية </a></li>
-        <li><a href="./README-KO.md"> الكورية </a></li>
-        <li><a href="./README-JA.md"> اليابانية </a></li>
-        <li><a href="./README-HI.md"> هندي </a></li>
+        <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+         <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+         <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>  <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+
+          <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+         <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
+         <li><a href="./README.md"> hello </a></li>
+        <li><a href="./README.md"> hello </a></li>
+       <li><a href="./README.md"> hello </a></li>
     </ul>
 </details>
 <!-- Do not translate this -->
